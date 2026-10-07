@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.3.0] - 2026-10-07
+
+### Novidades
+
+- Área de Ajuda e Feedback para enviar comentários, sugestões e relatos de erro pelo aplicativo de e-mail do Android.
+- Opção protegida por duas confirmações para zerar os dados do RunStreet e começar novamente.
+- Ajuda rápida explicando o aquecimento e o desaquecimento.
+
+### Melhorias
+
+- Aquecimento com orientação clara, contagem regressiva e indicação do próximo intervalo.
+- Desaquecimento apresentado após a meta, com opção para pular e registro separado no histórico.
+- Novos avisos por voz para o aquecimento e a conclusão da meta.
+- Configurações reorganizadas em seções mais simples.
+
+### Privacidade
+
+- Feedbacks não são armazenados nem enviados automaticamente.
+- Relatos de erro incluem apenas versão do aplicativo, versão do Android e modelo do aparelho.
+
 ## [0.2.0] - 2026-10-07
 
 ### Novidades
