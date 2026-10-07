@@ -1,21 +1,19 @@
+<div align="center">
+
 # RunStreet
 
 **Comece andando. Termine correndo.**
 
+[![Downloads do APK](https://img.shields.io/github/downloads/marcoscorreiaqxd/runstreet-releases/total?style=for-the-badge&logo=android&logoColor=white&label=Downloads%20do%20APK&color=0A84FF)](https://github.com/marcoscorreiaqxd/runstreet-releases/releases)
+
+## [⬇️ Baixar APK mais recente](https://github.com/marcoscorreiaqxd/runstreet-releases/releases/download/v0.2.0/RunStreet-v0.2.0.apk)
+
+**Versão atual: v0.2.0 — pré-lançamento**
+
+</div>
+
 RunStreet é um aplicativo Android criado para ajudar iniciantes na corrida a
-evoluírem através de treinos intervalados de caminhada e corrida.
-
-Você pode começar, por exemplo, alternando:
-
-- 30 segundos correndo;
-- 30 segundos caminhando;
-- progressões graduais conforme o seu próprio ritmo.
-
-## Sobre
-
-O RunStreet informa quando correr e quando caminhar, registra seus treinos e
-apresenta uma evolução simples de entender. O aplicativo ainda está em fase de
-desenvolvimento e testes.
+evoluírem por meio de treinos intervalados de caminhada e corrida.
 
 ## Principais recursos
 
@@ -27,19 +25,15 @@ desenvolvimento e testes.
 - Treinos personalizados.
 - Funcionamento offline, sem login.
 
-## Download
-
-### [Baixar versão mais recente](../../releases/latest)
-
-O APK oficial de teste fica disponível somente na área **Releases** deste
-repositório.
-
 ## Como instalar
 
-1. Baixe o APK da versão mais recente em **Releases**.
+1. Baixe o APK pelo botão acima.
 2. Abra o arquivo no Android.
 3. Autorize a instalação de aplicativos dessa fonte caso o Android solicite.
 4. Instale o RunStreet.
+
+Para consultar versões anteriores e suas notas, acesse
+[ todas as Releases](https://github.com/marcoscorreiaqxd/runstreet-releases/releases).
 
 ## Feedback
 
