@@ -33,7 +33,7 @@ evoluírem por meio de treinos intervalados de caminhada e corrida.
 4. Instale o RunStreet.
 
 Para consultar versões anteriores e suas notas, acesse
-[ todas as Releases](https://github.com/marcoscorreiaqxd/runstreet-releases/releases).
+[todas as Releases](https://github.com/marcoscorreiaqxd/runstreet-releases/releases).
 
 ## Feedback
 
